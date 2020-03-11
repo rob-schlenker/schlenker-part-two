@@ -13,7 +13,7 @@ if (vacType === "musical") {
   destination = "White Water Wafting the Grand Canyon";
 }
 
-if (groupSize < 2) {
+if (groupSize < 3) {
   travel = "First Class";
 } else if (groupSize < 10) {
     travel = "Helicopter";
