@@ -15,7 +15,7 @@ if (vacType === "musical") {
 
 if (groupSize < 3) {
   travel = "First Class";
-} else if (groupSize < 10) {
+} else if (groupSize < 6) {
     travel = "Helicopter";
 } else {
   travel = "Charter Flight";
