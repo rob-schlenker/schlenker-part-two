@@ -10,7 +10,7 @@ if (vacType === "musical") {
 } else if (vacType === "tropical") {
     destination = "Beach Vacation in Mexico";
 } else {
-  destination = "White Water Wafting the Grand Canyon";
+  destination = "White Water Rafting the Grand Canyon";
 }
 
 if (groupSize < 3) {
